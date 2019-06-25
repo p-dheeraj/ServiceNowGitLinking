@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_362633_gitt.firsttable_user" name="x_362633_gitt.firsttable_user">a209b27c2f1633008b6449e72799b697</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-25 08:32:28</sys_created_on>
+        <sys_id>6209b27c2f1633008b6449e72799b69a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a209b27c2f1633008b6449e72799b697</sys_name>
+        <sys_package display_value="gitt" source="x_362633_gitt">fea8ba3c2f1633008b6449e72799b637</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="gitt">fea8ba3c2f1633008b6449e72799b637</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6209b27c2f1633008b6449e72799b69a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-25 08:32:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
